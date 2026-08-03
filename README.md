@@ -18,11 +18,15 @@
 
 ## 🌐 Connect with Me
 
-[Facebook](your-link)
+<p align="left">
 
-[LinkedIn](your-link)
+<a href="https://sadek-ahmed-raj.github.io/">
+Portfolio</a> •
+<a href="https://www.linkedin.com/in/sadek-ahmed-raj-997859338/">LinkedIn</a> •
+<a href="https://facebook.com/profile.php?id=61585953175211">Facebook</a> •
+<a href="mailto:md.sadekahmedraj@gmail.com">Email</a>
 
-[Portfolio](your-link)
+</p>
 
 ---
 
@@ -52,20 +56,6 @@
 
 🔹 **Event Seating Allocator**
 > C++ Problem Solving Project
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://sadek-ahmed-raj.github.io/">
-Portfolio</a> •
-<a href="https://www.linkedin.com/in/sadek-ahmed-raj-997859338/">LinkedIn</a> •
-<a href="https://facebook.com/profile.php?id=61585953175211">Facebook</a> •
-<a href="mailto:md.sadekahmedraj@gmail.com">Email</a>
-
-</p>
 
 ---
 
