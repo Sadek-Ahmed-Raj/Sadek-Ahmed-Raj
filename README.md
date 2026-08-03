@@ -12,7 +12,7 @@
 
 🚀 Building Web Development Projects
 
-📫 Email: your@email.com
+📫 Email: md.sadekahmedraj@email.com
 
 ---
 
@@ -26,36 +26,75 @@
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+<p align="left">
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,git,github,vscode" />
 
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+</p>
 
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+---
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+## 📂 Featured Projects
 
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+🔹 **University Club Management System**
+> Java Console Application with Role-Based Access Control
+
+🔹 **Student Management System**
+> Console-based Management System in C
+
+🔹 **Movie Ticket Booking System**
+> C Programming Project
+
+🔹 **Rain Alarm System**
+> Electronics Project using HW-028 Rain Sensor
+
+🔹 **Event Seating Allocator**
+> C++ Problem Solving Project
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://sadek-ahmed-raj.github.io/">
+Portfolio</a> •
+<a href="https://www.linkedin.com/in/sadek-ahmed-raj-997859338/">LinkedIn</a> •
+<a href="https://facebook.com/profile.php?id=61585953175211">Facebook</a> •
+<a href="mailto:md.sadekahmedraj@gmail.com">Email</a>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+![](https://github-readme-stats.vercel.app/api?username=Sadek-Ahmed-Raj&show_icons=true&theme=github_dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek-Ahmed-Raj&layout=compact&theme=github_dark)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
+![](https://streak-stats.demolab.com?user=Sadek-Ahmed-Raj&theme=github-dark)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME"/>
+![](https://github-profile-trophy.vercel.app/?username=Sadek-Ahmed-Raj&theme=algolia&margin-w=10)
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Sadek-Ahmed-Raj&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 💡 Quote
+
+> *"Success is built one line of code at a time."*
